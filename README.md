@@ -1,2 +1,2 @@
-# Exercice-Cadavre-Exquis-WincklerPierre
-Création du repo
+# Mon Petit Cadavre Exquis
+Exercice BeCode
