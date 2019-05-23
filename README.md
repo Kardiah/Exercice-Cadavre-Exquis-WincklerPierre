@@ -6,3 +6,4 @@ Exercice BeCode
 * Une canette de coca
 * Dans son frigo
 * Parce qu’il avait envie de changer de caleçon
+* Après les récoltes de printemps
