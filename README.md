@@ -32,4 +32,5 @@ Soudain, un **matou** *rusé* et *chapardeur* fît son apparition. Il piqua la c
 Taper *1* pour sauver le *Chien*  
 Taper *2* pour sauver le *caleçon*  
 Taper *3* pour sauver le *coca-cola*
->>>>>>> ajout-christine
+
+~~~~~ *FIN* ~~~~~
