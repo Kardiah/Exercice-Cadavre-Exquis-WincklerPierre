@@ -20,6 +20,12 @@ Soudain, un **matou** *rusé* et *chapardeur* fît son apparition. Il piqua la c
 >Ne prenez pas de LSD ~~si prenez en tout le temps c'est trop **BIENN**~~  
 >Faites vous aider, consultez un astrologue.
 
+<<<<<<< HEAD
 Taper * 1* pour sauver le *Chien*
 Taper *2* pour sauver le *caleçon*
 Taper *3* pour sauver le *coca-cola*
+=======
+| Petit chien  |  Mattou rusé & chapardeur | Mec sous lSD  |
+|--------------|---------------------------|---------------|
+|      0       |              1            |   -53492911   |
+>>>>>>> 8c403ff20ad19999ff127d46614e95198f0018a0
