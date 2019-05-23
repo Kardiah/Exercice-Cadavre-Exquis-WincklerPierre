@@ -32,6 +32,7 @@ Soudain, un **matou** *rusé* et *chapardeur* fît son apparition. Il piqua la c
 Taper *1* pour sauver le *Chien*  
 Taper *2* pour sauver le *caleçon*  
 Taper *3* pour sauver le *coca-cola*
+Taper *4* si *l'eau* c'est meilleur pour la santé
 
 ~~~~~ *FIN* ~~~~~  
-*It is the End* 
+*It is the End*
