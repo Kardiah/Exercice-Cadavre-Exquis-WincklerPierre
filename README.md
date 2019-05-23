@@ -33,4 +33,5 @@ Taper *1* pour sauver le *Chien*
 Taper *2* pour sauver le *caleçon*  
 Taper *3* pour sauver le *coca-cola*
 
-~~~~~ *FIN* ~~~~~
+~~~~~ *FIN* ~~~~~  
+*It is the End* 
