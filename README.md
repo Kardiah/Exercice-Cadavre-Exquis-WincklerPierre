@@ -18,6 +18,7 @@ Soudain, un **matou** *rusé* et *chapardeur* fît son apparition. Il piqua la c
 *Moralité* :
 
 >Ne prenez pas de LSD ~~si prenez en tout le temps c'est trop **BIENN**~~  
+<<<<<<< HEAD
 >Faites vous aider, consultez un astrologue.
 
 
@@ -25,3 +26,10 @@ Soudain, un **matou** *rusé* et *chapardeur* fît son apparition. Il piqua la c
 |--------------|---------------------------|---------------|
 |      0       |              1            |   -53492911   |
 
+=======
+>Faites vous aider, consultez un astrologue.  
+
+Taper *1* pour sauver le *Chien*  
+Taper *2* pour sauver le *caleçon*  
+Taper *3* pour sauver le *coca-cola*
+>>>>>>> ajout-christine
