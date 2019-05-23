@@ -11,3 +11,13 @@ Soudain, un **matou** *rusé* et *chapardeur* fît son apparition. Il piqua la c
 
 ![chat-canette-coca](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkNa4tZlvUMlYACROSdsGwC4FtKFkAfFDUijg77KCpd3UPLwi)
 
+* Après les récoltes de printemps  
+
+**Il ouvre son armoire à caleçons, et la : *horreur* il y'a Yannick Noah dedans**
+
+*Moralité* :
+
+>Ne prenez pas de LSD ~~si prenez en tout le temps c'est trop **BIENN**~~  
+>Faites vous aider, consultez un astrologue.
+>>>>>>> aacbf30e2bfeac9557addf757cf0e9a19fd4ff2f
+>>>>>>> ed357884f24507dbbdb44ccd8a3baa525f99e8c0
