@@ -19,3 +19,5 @@ Soudain, un **matou** *rusé* et *chapardeur* fît son apparition. Il piqua la c
 
 >Ne prenez pas de LSD ~~si prenez en tout le temps c'est trop **BIENN**~~  
 >Faites vous aider, consultez un astrologue.
+
+| Petit chien | Matou rusé et chapardeur | Le mec sous LSD | |----------|:-------------:|------:| | 0 | 1 | -59432 |
