@@ -19,8 +19,7 @@ Soudain, un **matou** *rusé* et *chapardeur* fît son apparition. Il piqua la c
 
 >Ne prenez pas de LSD ~~si prenez en tout le temps c'est trop **BIENN**~~  
 >Faites vous aider, consultez un astrologue.
->>>>>>> aacbf30e2bfeac9557addf757cf0e9a19fd4ff2f
->>>>>>> ed357884f24507dbbdb44ccd8a3baa525f99e8c0
+
 Taper * 1* pour sauver le *Chien*
 Taper *2* pour sauver le *caleçon*
 Taper *3* pour sauver le *coca-cola*
