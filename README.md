@@ -11,5 +11,5 @@ Exercice BeCode
 
 *Moralité* : 
  
->Ne prenez pas de LSD ~~si prenez en tout le temps c'est trop **BIENN**~~ 
+>Ne prenez pas de LSD ~~si prenez en tout le temps c'est trop **BIENN**~~  
 >Faites vous aider, consultez un astrologue.
